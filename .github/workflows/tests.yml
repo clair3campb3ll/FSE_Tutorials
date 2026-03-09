@@ -2,7 +2,7 @@ name: Run Test
 
 on:
   push:
-    branches: [ main, tut-* ]
+    branches: [ main, "tut-*" ]
   pull_request:
     branches: [ main ]
 
