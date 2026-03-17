@@ -5,3 +5,6 @@ pytest
 python-dotenv
 sqlalchemy
 loguru
+black
+celery
+redis
